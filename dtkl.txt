@@ -1,0 +1,77 @@
+bal 4333,4432,5332
+semibal bal|5422,6322
+m C|D
+M H|S
+R D|H
+s m|M
+x s|N
+
+*:
+1C 11-13 bal | 17+ any !22-23 bal
+1D 11-16 4+|4+ 5+C
+1M 11-16 5+
+1N 14-16 bal
+2C 11-16 6+|5+4M
+2D 5-10 5M+5m | 22-23 bal
+2M 4-9/7-10/3-14/14-16 5+/6+M DJ6+
+2 N 7-10 mm
+3 N 1st/2nd EKD7
+
+1C:
+1D 0-7
+1M 8+ 4+|4+ 5+m
+1N 8-11 no M
+2m 8-12 5+ no M 
+2H 14-15 bal|19+ bal|13+ 54+mm 
+2S 13+ 6+m|NT-överf
+2N 12-13 bal
+3m 4-7 6+
+3/4M 4-7 6/7+M
+3N 16-18 bal
+4m 9-13 7+M 2-3(5)A
+
+1C (X|1s):
+RD 13+ bal
+1D 6+ 4+H
+X  6+ trf oM 
+1H 6+ 4+S
+1S 7-12 bal no M
+1N/2C 5+ m
+trf_to_suit bal 13+
+overbid NF nat
+jump 2M pree
+
+1C (X|1S):
+2D GF 5+H
+
+1C (2C):
+??
+
+1C (2D):
+2M 8+ 5+M
+2N trf
+
+
+1C (2M):
+X  8+ bal|11+ obal
+
+1D:
+1N 3-11 6+C|6-9 3D|15+ AKD6+M
+2D 9-12 4+D
+2N 13+ stenb 4+D
+2M 3-10 6+M
+3D 4-8 4+
+
+1D (2S):
+2N UI+ C
+3C 9+ 4+D
+3D 4-8 4+D
+
+1R-1M:
+3M min 4
+2N max 6+R 3M|4+M
+3R max 2-M
+
+1x-2y:
+2N 11-14
+
