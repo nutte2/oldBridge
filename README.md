@@ -9,3 +9,5 @@ calif4 is an article presented at Stanford about Bridge and Q-learning
 givar6 is a dealing program (partly in Swedish) made for bidding practice, you can select hand with alternative specs and also spread strength a bit from the true distribution. A lot of stuff is for the printout incl opponents disturbances
 
 gil is a Swedish article about GIB in our Bridge magazine
+
+dtkl is an example/start of how human&computer (semi)readable bidding system definition might look like
