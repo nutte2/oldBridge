@@ -11,3 +11,6 @@ givar6 is a dealing program (partly in Swedish) made for bidding practice, you c
 gil is a Swedish article about GIB in our Bridge magazine
 
 dtkl is an example/start of how human&computer (semi)readable bidding system definition might look like
+
+fuzzybridge is an attempt to use fuzzy logic for bidding systems
+
